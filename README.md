@@ -6,12 +6,12 @@
 is a C-based program designed to classify integers based on various mathematical properties. It determines whether numbers are Armstrong, Palindromic, Prime, or Strong numbers using both iterative and recursive methods. This project serves as an educational tool to demonstrate different programming approaches to number classification.
 
 ## Features
-	•	Number Classifications:
+	•  Number Classifications:
 	  •	Armstrong Numbers: Numbers that are equal to the sum of their own digits each raised to the power of the number of digits.
 	  •	Palindromic Numbers: Numbers that read the same backward as forward.
 	  •	Prime Numbers: Numbers greater than 1 that have no positive divisors other than 1 and themselves.
 	  •	Strong Numbers: Numbers where the sum of the factorial of digits is equal to the number itself.
-	•	Implementation Approaches:
+	•  Implementation Approaches:
 	  •	Iterative Methods: Efficient loops for quick computation.
 	  •	Recursive Methods: Elegant solutions that demonstrate the power of recursion.
 
@@ -26,23 +26,25 @@ is a C-based program designed to classify integers based on various mathematical
 ## Compilation and Execution
 
 ### Prerequisites
-	•	GCC compiler installed on your system.
+
+	•  GCC compiler installed on your system.
 
 ### Steps
-	1.	Clone the Repository:
+
+1.	Clone the Repository:
 
 ```bash
 git clone https://github.com/Avichai-Mizrachi/C-SpecialNumbers.git
 cd C-SpecialNumbers
 ```
 
-	2.	Compile the Program:
+2.	Compile the Program:
 
 ```bash
 make
 ```
 
-	3.	Run the Program:
+3.	Run the Program:
 
 ```bash
 ./main
